@@ -1,0 +1,4 @@
+pandas == 2.1.3
+geopandas == 0.14.1
+pyhere == 1.0.0
+folium == 0.14.0
