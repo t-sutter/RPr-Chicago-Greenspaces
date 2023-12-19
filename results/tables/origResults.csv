@@ -1,6 +1,6 @@
-TABLE 1: ACCESS TO PARKS AND DISTRIBUTION OF TREE CANOPY BY MAJORITY GROUPS IN CHICAGO Majority Group 	Tracts 	Population 	Population with Access 	Area (sqm) 	Green Space Area (sqm) 	Percent Population with Access 	Green Space Per Person (sqm) 
-Black 	269 	"755,569 "	"482,153 "	"196,481,794 "	"13,498,778 "	63.8 	17.9 
-Mixed 	178 	"669,499 "	"510,794 "	"145,342,623 "	"8,965,317 "	76.3 	13.4 
-White 	190 	"660,728 "	"485,254 "	"118,606,374 "	"11,511,111 "	73.4 	17.4 
-Latinx 	146 	"579,637 "	"332,655 "	"96,215,420 "	"2,667,939 "	57.4 	4.6 
-Asian 	4 	"13,875 "	"10,876 "	"1,983,068 "	"27,683 "	78.4 	2.0 
+Majority Tracts,Tracts ,Population ,Population with Access ,Area (sqm) ,Green Space Area (sqm) ,Percent Population with Access ,Green Space Per Person (sqm) 
+Black ,269 ,755569 ,482153 ,196481794 ,13498778 ,63.8 ,17.9 
+Mixed ,178 ,669499 ,510794 ,145342623 ,8965317 ,76.3 ,13.4 
+White ,190 ,660728 ,485254 ,118606374 ,11511111 ,73.4 ,17.4 
+Latinx ,146 ,579637 ,332655 ,96215420 ,2667939 ,57.4 ,4.6 
+Asian ,4 ,13875 ,10876 ,1983068 ,27683 ,78.4 ,2.0 
