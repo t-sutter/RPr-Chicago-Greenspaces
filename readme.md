@@ -1,51 +1,42 @@
-If you use this template for research, please [cite it](template_reference.bib):
-> Kedron, P., & Holler, J. (2023). Template for Reproducible and Replicable Research in Human-Environment and Geographical Sciences. https://doi.org/10.17605/OSF.IO/W29MQ
+# Reproduction of Middlebury College's GIS Green Space Access in Chicago Lab
 
-# Title of Study
+### Author
 
-## Contributors
-
-- First Name Last Name\*, email address, @githubname, ORCID link, affiliated institution(s)
-- First Name Last Name, email address, @githubname, ORCID link, affiliated institution(s)
+- Tate Sutter\*, tsutter@middlebury.edu, @t-sutter, Middlebury College
 
 \* Corresponding author and creator
 
-## Abstract
+### Abstract
 
-Write a brief abstract about your research project.
-If the project is a reproduction or replication study, include the full citation with a statement
-This study is a *reproduction/replication* of:
+This study is a *replication* of:
 
-> citation to prior study
+> [Week 07 Lab: Urban Environmental Justice of Green Space Access in Chicago](https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/docs/report/originalStudy.pdf), Human Geography with GIS, Middlebury College
 
-A graphical abstract of the study could also be included as an image here.
+The study replicates the lab *Urban Environmental Justice of Green Space Access in Chicago* within a Python coding language environment. The study reproduces an analysis of inhabitants' access to green space in Chicago. The original lab was performed in QGIS. The reproduction compares the geospatial tools of QGIS and the GeoPandas Python package and transitions the analysis from a graphical user interface (GUI) system to script based system. 
 
-## Study Metadata
+### Study metadata
 
-- `Key words`: Comma-separated list of keywords (tags) for searchability. Geographers often use one or two keywords each for: theory, geographic context, and methods.
-- `Subject`: select from the [BePress Taxonomy](http://digitalcommons.bepress.com/cgi/viewcontent.cgi?article=1008&context=reference)
-- `Date created`: date when project was started
-- `Date modified`: date of most recent revision
-- `Spatial Coverage`: Specify the geographic extent of your study. This may be a place name and link to a feature in a gazetteer like GeoNames or OpenStreetMap, or a well known text (WKT) representation of a bounding box.
-- `Spatial Resolution`: Specify the spatial resolution as a scale factor, description of the level of detail of each unit of observation (including administrative level of administrative areas), and/or or distance of a raster GRID size
-- `Spatial Reference System`: Specify the geographic or projected coordinate system for the study
-- `Temporal Coverage`: Specify the temporal extent of your study---i.e. the range of time represented by the data observations.
-- `Temporal Resolution`: Specify the temporal resolution of your study---i.e. the duration of time for which each observation represents or the revisit period for repeated observations
-- `Funding Name`: name of funding for the project
-- `Funding Title`: title of project grant
-- `Award info URI`: web address for award information
-- `Award number`: award number
+- `Key words`: Urban Geography, Green Spaces, Chicago, Reproducibility, Open Science, Geospatial Python.
+- `Subject`: Human Geography
+- `Date created`: December 1, 2023. 
+- `Date modified`: December 18, 2023.
+- `Spatial Coverage`: Chicago, Illinois.
+- `Spatial Resolution`: Census Block and Tract.
+- `Spatial Reference System`: EPSG:6454
+- `Temporal Coverage`: 2010
+- `Temporal Resolution`: This study does not address change over time. 
+
+#### Original study spatio-temporal metadata
+
+- `Spatial Coverage`: Chicago, Illinois.
+- `Spatial Resolution`: Census Block and Tract.
+- `Spatial Reference System`: EPSG:6454
+- `Temporal Coverage`: 2010
+- `Temporal Resolution`: This study does not address change over time. 
 
 ## Related to
 
-- `OSF Project`:
-- `Pre-analysis Registration`:
-- `Post-analysis Report Registration`:
-- `Preprint`:
-- `Conference Presentation`:
-- `Publication`:
-- `Prior Study`:
-- `...`:
+- `Prior Study`: [Week 07 Lab: Urban Environmental Justice of Green Space Access in Chicago](https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/docs/report/originalStudy.pdf), Human Geography with GIS, Middlebury College
 
 ## Metadata for access
 
@@ -69,10 +60,8 @@ The data, procedures, and results of this repository are outlined in three table
 - Results: [results/results_index.csv](results/results_index.csv)
 
 Important local **documents** include:
-- Pre-analysis plan: [docs/report/preanalysis.pdf](docs/report/preanalysis.pdf)
+- Pre-analysis plan: [docs/report/analysis_plan.md]([docs/report/preanalysis.pdf](https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/docs/report/analysis_plan.md))
 - Study report: [docs/report/report.pdf](docs/report/report.pdf)
-- Manuscript: [docs/manuscript/manuscript.pdf](docs/manuscript/manuscript.pdf)
-- Presentation: [docs/presentation/presentation.pdf](docs/presentation/presentation.pdf)
 
 #### Compendium reference
 
