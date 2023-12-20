@@ -1,1 +1,5 @@
-﻿
+﻿File Name,Meta Name,Location
+tracts2010.shp,tractsMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/tractsMeta.md
+blocks2010.shp,blocksMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/tractsMeta.md
+forest.shp,forestsMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/forestsMeta.md
+parks.shp,parksMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/parksMeta.md
