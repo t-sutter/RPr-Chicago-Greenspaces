@@ -1,5 +1,5 @@
-﻿File Name,Meta Name,Location
-tracts2010.shp,tractsMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/tractsMeta.md
-blocks2010.shp,blocksMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/tractsMeta.md
-forest.shp,forestsMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/forestsMeta.md
-parks.shp,parksMeta.md,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/parksMeta.md
+Path,Name,Metadata,Discription
+..data\raw\public,tracts2010.shp,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/tractsMeta.md,Metadata for 2010 Chicago Census Tracts
+..data\raw\public,blocks2010.shp,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/tractsMeta.md,Metadata for 2010 Chicago Census Blocks
+..data\raw\public,forest.shp,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/forestsMeta.md,Metadata for Cook County Forest Preserves in Chicago
+..data\raw\public,parks.shp,https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/data/metadata/parksMeta.md,Metadata for Chicago Parks
