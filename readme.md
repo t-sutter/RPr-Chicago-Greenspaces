@@ -61,7 +61,7 @@ The data, procedures, and results of this repository are outlined in three table
 
 Important local **documents** include:
 - Pre-analysis plan: [docs/report/analysis_plan.md]([docs/report/preanalysis.pdf](https://github.com/t-sutter/RPr-Chicago-Greenspaces/blob/main/docs/report/analysis_plan.md))
-- Study report: [docs/report/report.pdf](docs/report/report.pdf)
+- Study report: [docs/index.html](https://t-sutter.github.io/RPr-Chicago-Greenspaces/)
 
 #### Compendium reference
 
